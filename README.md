@@ -6,27 +6,30 @@
 
 ## 🚀 Sobre Mí
 
-- 💻 Desarrollador Full Stack apasionado por crear aplicaciones modulares escalables robustas
-- 📍 De Miramar, Buenos Aires, Argentina ⛵🌊
-- 🎯 Especializado en Laravel y Angular
-- 🌱 Actualmente explorando nuevas tecnologías y mejores prácticas
-- 💬 Nivel de Inglés: B1
+- 💻 Desarrollador Full Stack apasionado por crear aplicaciones modulares escalables robustas,
+- 📍 De Miramar, Buenos Aires, Argentina ⛵🌊,
+- 🎯 Especializado en buenas prácticas de desarrollo,
+- 🌱 Actualmente explorando nuevas tecnologías y mejores prácticas,
+- 💬 Nivel de Inglés: B1.
 
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular CDK](https://img.shields.io/badge/Angular_CDK-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular CDK](https://img.shields.io/badge/Angular_CDK-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MikroORM](https://img.shields.io/badge/MikroORM-FF6A00?style=for-the-badge&logo=mikro-orm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
